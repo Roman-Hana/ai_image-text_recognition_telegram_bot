@@ -1,0 +1,20 @@
+{
+  "name": "gpt-chat-analaizer",
+  "version": "2.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "google-auth-library": "^8.9.0",
+    "google-spreadsheet": "^4.1.1",
+    "node-telegram-bot-api": "^0.65.1",
+    "openai": "^4.47.1"
+  }
+}
